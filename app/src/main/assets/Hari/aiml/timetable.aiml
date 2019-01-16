@@ -1,0 +1,26 @@
+<aiml>
+<category>
+<pattern>Download Computer engineering time table</pattern>
+<template>Click here to download - https://www.vgecg.ac.in/timetable/CE%20Master%20Time%20Table%202018.pdf</template>
+</category>
+
+<category>
+<pattern>Computer engineering time table</pattern>
+<template><srai>Download Computer engineering time table</srai></template>
+</category>
+
+<category>
+<pattern>what is time table for CE</pattern>
+<template><srai>Download Computer engineering time table</srai></template>
+</category>
+
+<category>
+<pattern>what is time table for computer engineering*</pattern>
+<template><srai>Download Computer engineering time table</srai></template>
+</category>
+
+<category>
+<pattern>^ CE time table ^</pattern>
+<template><srai>Download Computer engineering time table</srai></template>
+</category>
+</aiml>

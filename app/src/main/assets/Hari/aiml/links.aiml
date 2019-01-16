@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+     <category>
+           <pattern>vgec</pattern>
+           <template>It stands for Vishwakarma Government Engineering College</template>
+    </category>
+
+   <category>
+           <pattern>fee payment</pattern>
+           <template>https://www.onlinesbi.com/prelogin/institutiontypedisplay.htm</template>
+   </category>
+
+   <category>
+            <pattern>sbi fee collect</pattern>
+            <template>https://www.onlinesbi.com/prelogin/institutiontypedisplay.htm </template>
+   </category>
+    
+    <category>
+            <pattern>^ faculty ^</pattern>
+            <template>You can find more about it here http://www.vgecg.ac.in/dept_ce.php?faculties</template>
+   </category>
+   
+   <category>
+            <pattern>^ department ^</pattern>
+            <template>You can find more about it here http://www.vgecg.ac.in/dept_ce.php</template>
+   </category>
+   
+   <category>
+            <pattern>sbi fee collect</pattern>
+            <template>https://www.onlinesbi.com/prelogin/institutiontypedisplay.htm </template>
+   </category>
+
+
+      <category>
+               <pattern>how many departments ^</pattern>
+               <template>1.Computer Engineering
+                         2. IT
+                         3.Mechanical
+                         4.Civil
+                         5.Electrical
+                         6.ECE
+                         7.Applied Mechanics
+                         8.Instrumentation and Control
+                         9.Power Electronics
+                         10.Chemical
+               </template>
+      </category>
+
+   <category>
+            <pattern>time table</pattern>
+            <template>You can download it from here - http://www.vgecg.ac.in/timetable.php </template>
+   </category>
+
+   <category>
+               <pattern>^ contact number ^</pattern>
+               <template>Phone:(079) 23293006 (TPO),(079) 29099903 (Principal)
+               </template>
+    </category>
+
+   <category>
+            <pattern>^ email ^</pattern>
+            <template>mail us here - vgec-abad-dte@gujarat.govt.in </template>
+   </category>
+</aiml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+   <category>
+           <pattern>Hi my name is *</pattern>
+           <template>Hello <set name="name"><star/></set>, nice meeting you.</template>
+   </category>
+
+   <category>
+     <pattern>What tasks ^</pattern>
+     <template> I can perform various tasks like providing information, solving queries, making your job easy etc.</template>
+   </category>
+   
+   <category>
+     <pattern>What's up ^</pattern>
+     <template> I'm cool. Just like you.</template>
+   </category>
+
+
+   <category>
+         <pattern>WHAT IS MY NAME</pattern>
+         <template>
+            Your name is <get name="name"/>.
+         </template>
+      </category>
+   <category>
+            <pattern>WHAT IS YOUR NAME ^</pattern>
+            <template><random><li>You can call me Vishwa</li>
+            <li>Vishwa. As simple as that.</li>
+            <li>My name is Vishwa</li>
+            </random></template>
+   </category>
+</aiml>

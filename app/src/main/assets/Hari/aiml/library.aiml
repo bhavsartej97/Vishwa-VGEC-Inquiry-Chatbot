@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+<pattern>what is timing for library ^</pattern>
+<template>Monday to Friday and working Saturday 9:30AM to 6.10PM</template>
+</category>
+
+<category>
+<pattern>^ library timing ^</pattern>
+<template><srai>what is timing for library ^</srai></template>
+</category>
+
+<category>
+<pattern>when library is open?</pattern>
+<template><srai>what is timing for library ^</srai></template>
+</category>
+
+<category>
+<pattern>library opening time</pattern>
+<template><srai>what is timing for library ^</srai></template>
+</category>
+
+<category>
+<pattern>Issue and Return of books Hours</pattern>
+<template>Monday to Friday and working Saturday: 11.00 AM to 2:00PM and 3.00 PM to 5.00 PM.</template>
+</category>
+
+<category>
+<pattern>timing for issue and return of book</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>^ issue ^ return ^ book ^</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>timing for issue of book</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>^ issue ^ book ^</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>^ return ^ book ^</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>^ book ^ issue ^</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>^ book ^ return ^</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>timing for return of book</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>what is timing for issue and return of book ^</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>what is timing for issue of book ^</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>what is timing for return of book ^</pattern>
+<template><srai>Issue and Return of books Hours </srai></template>
+</category>
+
+<category>
+<pattern>Seating Capacity Of The Library</pattern>
+<template>50</template>
+</category>
+
+<category>
+<pattern>^ Seating Capacity ^ Library ^</pattern>
+<template>50</template>
+</category>
+
+<category>
+<pattern>^ Capacity ^ Library ^</pattern>
+<template>50</template>
+</category>
+
+<category>
+<pattern>what is Seating Capacity Of The Library ^</pattern>
+<template><srai>Seating Capacity Of The Library</srai></template>
+</category>
+
+
+<category>
+<pattern>search available books in Library </pattern>
+<template>click here to search: http://192.168.20.252/webopac/ </template>
+</category>
+
+<category>
+<pattern>available books in Library </pattern>
+<template><srai>search available books in Library </srai></template>
+</category>
+
+<category>
+<pattern>co-curricular activities in college</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/studentclub/</template>
+</category>
+
+<category>
+<pattern>^ co-curricular activities ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/studentclub/</template>
+</category>
+
+<category>
+<pattern>^ extra curricular ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/studentclub/</template>
+</category>
+
+<category>
+<pattern>which co-curricular activities held in college?</pattern>
+<template><srai>co-curricular activities in college</srai></template>
+</category>
+
+</aiml>

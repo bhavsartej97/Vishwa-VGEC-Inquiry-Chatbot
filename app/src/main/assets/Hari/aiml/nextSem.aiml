@@ -1,0 +1,57 @@
+<aiml>
+<category>
+	<pattern>_ NEXT SEMESTER _</pattern>
+	<template><think><set name="topic"> next_semester </set></think><srai>NO DATA</srai></template>
+</category>
+
+<category>
+	<pattern>_ NEXT SEMESTER</pattern>
+	<template><think><set name="topic"> next_semester </set></think><srai>NO DATA</srai></template>
+</category>
+
+<category>
+	<pattern>NEXT SEMESTER _</pattern>
+	<template><think><set name="topic"> next_semester </set></think><srai>NO DATA</srai></template>
+</category>
+
+<category>
+	<pattern>_ NEXT SEM _</pattern>
+	<template><think><set name="topic"> next_semester </set></think><srai>NO DATA</srai></template>
+</category>
+
+<category>
+	<pattern>_ NEXT SEM</pattern>
+	<template><think><set name="topic"> next_semester </set></think><srai>NO DATA</srai></template>
+</category>
+
+<category>
+	<pattern>NEXT SEM _</pattern>
+	<template><think><set name="topic"> next_semester </set></think><srai>NO DATA</srai></template>
+</category>
+
+<category>
+	<pattern>_ NEXT YEAR _</pattern>
+	<template><think><set name="topic"> next_semester </set></think><srai>NO DATA</srai></template>
+</category>
+
+<category>
+	<pattern>_ NEXT YEAR</pattern>
+	<template><think><set name="topic"> next_semester </set></think><srai>NO DATA</srai></template>
+</category>
+
+<category>
+	<pattern>NEXT YEAR _</pattern>
+	<template><think><set name="topic"> next_semester </set></think><srai>NO DATA</srai></template>
+</category>
+
+<category>
+	<pattern>NO DATA</pattern>
+	<template>
+		<random>
+		<li>I don't have data about next semester. But, you can always come next semester to contact about that.</li>
+		<li>Sorry, next semester data is not available right now.</li>
+		<li>Can you contact me next semester for that?</li>
+		</random>
+	</template>
+</category>
+</aiml>

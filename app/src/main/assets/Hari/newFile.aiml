@@ -1,0 +1,172 @@
+
+<aiml>
+
+
+<category>
+<pattern>online sbi collect</pattern>
+<template>Visit this link - https://www.onlinesbi.com/prelogin/icollecthome.htm</template>
+</category>
+
+<category>
+<pattern>^ fee ^ payment ^</pattern>
+<template><srai>online sbi collect</srai></template>
+</category>
+
+<category>
+<pattern>^ sbi collect ^</pattern>
+<template><srai>online sbi collect</srai></template>
+</category>
+
+<category>
+<pattern>^ academic ^ calendar ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/academic-calender</template>
+</category>
+
+<category>
+<pattern>^ student ^ service ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/student-services</template>
+</category>
+
+<category>
+<pattern>^ scholarship ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/scholarship</template>
+</category>
+
+<category>
+<pattern>^ acpc ^</pattern>
+<template>http://www.jacpcldce.ac.in/</template>
+</category> 
+
+<category>
+<pattern>^ email ^ vgec ^ vishwakarma ^ vishwakarma college ^</pattern>
+<template>sts@vgecg.ac.in</template>
+</category>
+
+<category>
+<pattern>^ a block working hour ^</pattern>
+<template> A-BLOCK WORKING HOUR: 11 TO 2.00 AND 2.30 TO 5.00 PM</template>
+</category>
+
+<category>
+<pattern>^ info for new admission ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/acpc-admission</template>
+</category>
+
+<category>
+<pattern>^ name correction ^</pattern>
+<template>https://docs.google.com/viewer?a=v&pid=sites&srcid=dmdlY2cuYWMuaW58c3RzLXZnZWNnLWFjLWlufGd4OjViMWUxNDc5NzdjZTg4ODI</template>
+</category>
+
+<category>
+<pattern>^ achievements ^ students ^</pattern>
+<template>VGEC students have achieved a lot and all of which cant be described here, hence visit this link on the website https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/student-achievement</template>
+</category>
+
+<category>
+<pattern>^ student ^ achievements ^</pattern>
+<template>visit this link on the website https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/student-achievement</template>
+</category>
+
+<category>
+<pattern>^important ^ notice ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/circular</template>
+</category>
+
+<category>
+<pattern>^ form for duplicate ^ card ^</pattern>
+<template>https://docs.google.com/viewer?a=v&pid=sites&srcid=dmdlY2cuYWMuaW58c3RzLXZnZWNnLWFjLWlufGd4OjUzZDJlOWVlNzc4NzY1Njg</template>
+</category>
+
+<category>
+<pattern>^ duplicate id ^</pattern>
+<template>https://docs.google.com/viewer?a=v&pid=sites&srcid=dmdlY2cuYWMuaW58c3RzLXZnZWNnLWFjLWlufGd4OjUzZDJlOWVlNzc4NzY1Njg</template>
+</category>
+
+<category>
+<pattern>^ transcript ^</pattern>
+<template>https://docs.google.com/viewer?a=v&pid=sites&srcid=dmdlY2cuYWMuaW58c3RzLXZnZWNnLWFjLWlufGd4OjRkY2JjZDA1NDk4ZjY2YWI</template>
+</category>
+
+<category>
+<pattern>^ student affair ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/home</template>
+</category>
+
+<category>
+<pattern>^ student section ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/home</template>
+</category>
+
+<category>
+<pattern>^ cancel admisssion form ^</pattern>
+<template>before enrollment or after enrollment</template>
+</category>
+
+<category>
+      <pattern>after enrollment</pattern>
+      <that>before enrollment or after enrollment</that>
+      <template>https://docs.google.com/viewer?a=v&pid=sites&srcid=dmdlY2cuYWMuaW58c3RzLXZnZWNnLWFjLWlufGd4OjRmOTA0NTk0MjZiMmY1YzQ</template>
+</category>
+
+<category>
+      <pattern>before enrollment</pattern>
+      <that>before enrollment or after enrollment</that>
+      <template>https://docs.google.com/viewer?a=v&pid=sites&srcid=dmdlY2cuYWMuaW58c3RzLXZnZWNnLWFjLWlufGd4OjEwNDU1N2QyZGI5YzhiNTI</template>
+</category>
+
+<category>
+<pattern>^ cancel admission info ^</pattern>
+<template>https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/ad</template>
+</category>
+
+<category>
+<pattern>^ anti ragging ^</pattern>
+<template>Details regarding anti ragging squad - https://sites.google.com/a/vgecg.ac.in/sts-vgecg-ac-in/anti-ragging</template>
+</category>
+
+<category>
+<pattern>^ mid ^ marks ^</pattern>
+<template>http://14.139.122.69/instinfo/midmark.jsp</template>
+</category>
+
+<category>
+<pattern>^ mid semester result ^</pattern>
+<template>http://14.139.122.69/instinfo/midmark.jsp</template>
+</category>
+
+<category>
+<pattern>^ result ^ mid sem ^</pattern>
+<template>http://14.139.122.69/instinfo/midmark.jsp</template>
+</category>
+
+<category>
+<pattern>^ hostel deposit refund ^</pattern>
+<template>https://docs.google.com/viewer?a=v&pid=sites&srcid=dmdlY2cuYWMuaW58c3RzLXZnZWNnLWFjLWlufGd4OjUzYTM2ZDhlYzRlYzUwZA</template>
+</category>
+
+<category>
+<pattern>^ hostel ^ refund ^</pattern>
+<template>https://docs.google.com/viewer?a=v&pid=sites&srcid=dmdlY2cuYWMuaW58c3RzLXZnZWNnLWFjLWlufGd4OjUzYTM2ZDhlYzRlYzUwZA</template>
+</category>
+
+<category>
+<pattern>^ bonafide ^</pattern>
+<template>https://drive.google.com/drive/folders/0B4ufpfxUsTYeaHRCandZMWFBaDA</template>
+</category>
+
+<category>
+<pattern>^ character certificate ^</pattern>
+<template>https://drive.google.com/drive/folders/0B4ufpfxUsTYeaHRCandZMWFBaDA</template>
+</category>
+
+<category>
+<pattern>^ vgec blogspot ^</pattern>
+<template>https://studentsectionvgecg.wordpress.com/</template>
+</category>
+
+<category>
+<pattern>^ student help ^</pattern>
+<template>https://docs.google.com/spreadsheets/d/17vPzGp0UUtJiBGc9jHQGTUpig3XYmITflq-EuL0FmVc/edit#gid=0</template>
+</category>
+
+</aiml>

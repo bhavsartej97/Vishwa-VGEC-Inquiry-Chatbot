@@ -1,0 +1,7 @@
+url:http://djustice-android.tumblr.com
+name:Vishwa
+email:bhavsartej97@gmail.com
+gender:male
+botmaster:TejPratikParthNamra
+organization:VGEC
+version:0.0.1

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+    <category>
+    		<pattern>What is vgec ^</pattern>
+    		<template>It is an educational institute which provides engineering courses and affiliated to GTU.</template>
+    </category>
+
+	<category>
+		<pattern>^ vgec full form ^</pattern>
+		<template><srai>vgec full form</srai></template>
+	</category>
+
+	<category>
+		<pattern>^ full form ^ vgec ^</pattern>
+		<template><srai>vgec full form</srai></template>
+	</category>
+   <category>
+      <pattern>vgec full form</pattern>
+      <template>
+         Vishwakarma Government Engineering College
+      </template>
+   </category>
+   <category>
+		<pattern>Where is vgec located ^</pattern>
+		<template>Here is the address - Nr. Visat Three Roads, Sabarmati-Koba Highway, Chandkheda, Ahmedabad, Gujarat 382424</template>
+   </category>
+   <category>
+		<pattern>^ vgec ^ location ^</pattern>
+		<template>
+		<random><li>Chandkheda, Ahmedabad</li>
+				<li><srai>Where is vgec located ^</srai></li>
+		</random>
+		</template>
+   </category>
+
+   <category>
+		<pattern>^ location ^ vgec ^</pattern>
+		<template>Here is the address - Nr. Visat Three Roads, Sabarmati-Koba Highway, Chandkheda, Ahmedabad, Gujarat 382424</template>
+   </category>
+   
+   <category>
+              <pattern>* is vishwakarma location ^</pattern>
+              <template><srai>^ vgec ^ location</srai></template>
+   </category>
+
+   <category>
+      <pattern>vgec address</pattern>
+      <template>
+			<srai>Where is vgec located ^</srai>
+      </template>
+   </category>
+
+   <category>
+           <pattern>Who ^ principal ^</pattern>
+           <template>Her name is Dr. Rajul K. Gajjar</template>
+   </category>
+   <category>
+           <pattern>^ principal ^ name ^</pattern>
+           <template> Dr. Rajul K. Gajjar</template>
+   </category>
+      <category>
+           <pattern>^ name ^ principal</pattern>
+           <template>Her name is Dr. Rajul K. Gajjar</template>
+   </category>
+   
+   
+</aiml>
